@@ -1,18 +1,18 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 学和玩儿
+keywords: Tengyu Liu, 刘腾宇
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是刘腾宇，一个徘徊于开悟之坡和愚昧之巅的人。
 
 仰慕「优雅编码的艺术」。
 
-坚信熟能生巧，努力改变人生。
+坚信熟能生巧，努力未必改变人生，但可糊口。
 
 ## 联系
 
