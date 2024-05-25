@@ -5,10 +5,10 @@
       - Python
       - Design Patterns
 
-- name: 
+- name: algorithm
   keywords:
-      - CUDA optimization
-      - Opencv
-      - YOLO
-      - Faster-Rcnn
-      
+      - CUDA optimization 
+      - Opencv 
+      - YOLO 
+      - Faster-Rcnn 
+
